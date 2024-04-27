@@ -222,7 +222,7 @@ li{
 }
 
 .skill-quote1 q{
-    color: #ffc107;
+    color: red;
     font-size: 40px;
     display: flex;
     justify-content: flex-end;
@@ -235,7 +235,7 @@ li{
 }
 
 .skill-quote2 q{
-    color: #ffc107;
+    color: red;
     font-size: 40px;
     display: flex;
     justify-content: flex-start;
@@ -278,21 +278,21 @@ li{
 fieldset{
     text-align: center;
     margin: auto;
-    border-color: #ffc107;
+    border-color: red;
     width: 1050px;
     border-style: double;
     border-width: 5px;
 }
 
 legend{
-    color: #ffc107;
+    color: red;
     font-size: 30px;
     text-align: left;
 }
 
 /* FOOTER */
 .main-footer{
-    background-color: #ffc107;
+    background-color: red;
     height: 60px;
     padding: 0px;
     margin: 0;
